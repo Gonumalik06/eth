@@ -1,11 +1,14 @@
 Project Title
+
 A simple smart contract for creating and managing a token named "BILL" with the abbreviation "GATES".
 
 Description
+
 The MyToken contract allows users to mint new tokens, burn existing tokens, and keep track of token balances associated with different addresses. The contract demonstrates basic token management on the Ethereum blockchain.
 Getting Started
 
 Executing program
+
 Follow these steps to set up and deploy the contract using Remix IDE:
 
 Open Remix IDE: Go to Remix IDE.
