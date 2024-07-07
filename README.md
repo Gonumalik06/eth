@@ -48,6 +48,7 @@ contract MyToken {
         }
     }
 }
+
 Function Usage
 
 mint
