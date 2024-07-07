@@ -11,15 +11,15 @@ Executing program
 
 Follow these steps to set up and deploy the contract using Remix IDE:
 
-Open Remix IDE: Go to Remix IDE.
+1.Open Remix IDE: Go to Remix IDE.
 
-Create a New File:
+2.Create a New File:
 
 o In the left sidebar, click on the "+" icon to create a new file.
 
 o Name your file MyToken.sol.
 
-Paste the Solidity Code:
+3.Paste the Solidity Code:
 
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
@@ -49,6 +49,7 @@ contract MyToken {
     }
 }
 Function Usage
+
 mint
 
 The mint function allows you to create new tokens and add them to a specified address.
@@ -58,6 +59,7 @@ burn
 The burn function allows you to destroy tokens from a specified address, reducing the total supply.
 
 Parameters:
+
 _Addre: The address to which the newly minted tokens will be added. _val: The amount of tokens to mint.
 
 Help
