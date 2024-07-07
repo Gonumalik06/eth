@@ -16,8 +16,11 @@ Open Remix IDE: Go to Remix IDE.
 Create a New File:
 
 In the left sidebar, click on the "+" icon to create a new file.
+
 Name your file MyToken.sol.
+
 Paste the Solidity Code:
+
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
